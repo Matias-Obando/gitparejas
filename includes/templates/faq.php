@@ -4,7 +4,7 @@
         <div class="row">
 
           <div class="col-lg-5" data-aos="fade-up">
-            <h2 class="faq-title">Have a question? Check out the FAQ</h2>
+            <h2 class="faq-title">can ich dist was fraggen?? </h2>
             <p class="faq-description">Maecenas tempus tellus eget condimentum rhoncus sem quam semper libero sit amet adipiscing sem neque sed ipsum.</p>
             <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
               <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211" fill="none" xmlns="http://www.w3.org/2000/svg">
